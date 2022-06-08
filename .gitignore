@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MOV
+Search Algorithms - Minimax algorithm/Minimax.mov
+Hiden Markov Models/grade A&B (FishingDerby)/HMM.mov
+Reinforcement Learning/grade A (FishingDerby)/RL.mov
