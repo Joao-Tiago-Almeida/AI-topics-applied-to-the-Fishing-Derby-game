@@ -1,6 +1,6 @@
 # AI-topics-applied-to-the-Fishing-Derby-game
 
-The practical part of the course was centred around the fishing derby game. The students completed three projects regarding the decision making of the AI system.
+The practical part of the Artificial Intelligence course at KTH (DD2380) on the fall 2021 was centred around the fishing derby game. TIt was completed three projects regarding the decision making of the AI system.
 
 ## [Minimax search algorithm](./Search%20Algorithms%20-%20Minimax%20algorithm)
 
